@@ -16,20 +16,20 @@
 //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : © PIXELCRAFT SERVER
+//  * @project_name : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ
 //  * @version      : 4.0
-//  * @author       : CHOOU
+//  * @author       : Janith Rashmika
 //  * @youtube      : https://www.youtube.com/@gamingrash2006
-//  * @description  : © PIXELCRAFT SERVER, A Multi-functional WhatsApp bot created by CHOOU.
+//  * @description  : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ, A Multi-functional WhatsApp bot created by Janith Rashmika.
 //*
 //*
-//Base by CHOOU
+//Base by Janith Rashmika
 //GitHub: @Mrrashmika
-//WhatsApp: +918798879524
+//WhatsApp: +94717775628
 //Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
 //   * Created By GitHub: Mrrashmika
 //   * Credit To Janith Rashmika
-//   * © 2025 © PIXELCRAFT SERVER-V4.
+//   * © 2025 © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ-V4.
 // ⛥┌┤
 // */
 
